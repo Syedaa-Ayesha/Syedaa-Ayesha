@@ -1,3 +1,4 @@
+![logo](https://github.com/Syedaa-Ayesha/Syedaa-Ayesha/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Syeda Ayesha</h1>
 <h3 align="center">A passionate Mern Stack Developer from Pakistan</h3>
 <img align="right" alt="Programming" width="400" src="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif" />
