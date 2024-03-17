@@ -1,13 +1,13 @@
 ![logo](https://github.com/Syedaa-Ayesha/Syedaa-Ayesha/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Syeda Ayesha</h1>
 <h3 align="center">A passionate Mern Stack Developer from Pakistan</h3>
-<img align="right" alt="Programming" width="400" src="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif" />
+<img align="left" alt="Programming" width="400" src="https://i.pinimg.com/originals/fa/da/ac/fadaaccbe42be76393b341017b735367.gif" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedaa-ayesha" alt="syedaa-ayesha" /></a> </p>
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [syedaa-ayesha.github.io/myPortfolio/](syedaa-ayesha.github.io/myPortfolio/)
+- 👨‍💻 All of my projects are available at [https://syedaa-ayesha.github.io/myPortfolio/](https://syedaa-ayesha.github.io/myPortfolio/)
 
 - 💬 Ask me about **react, ES6**
 
@@ -31,5 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedaa-ayesha&show_icons=true&locale=en" alt="syedaa-ayesha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedaa-ayesha&" alt="syedaa-ayesha" /></p>
-
-
