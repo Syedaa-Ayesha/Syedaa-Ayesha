@@ -1,8 +1,6 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=IfraShamim&label=Profile%20views&color=0e75b6&style=flat" alt="Syeda Ayesha" /><br/>
-<b><a href="" target="_blank" align="right">
 
 <img src = "Green and White Minimalist Business Profile with Photo Profile LinkedIn Banner (2).png" alt = "Syeda Ayesha" />
-<h1 align="center">Hi 👋, I'm Syeda Ayesha 💻</h1>
+<h1 align="center">👋 ~ Syeda Ayesha  ~</h1>
   <h3 align="center">💻 MERN Stack Developer | 🚀 Front-End Enthusiast | 💡 Lifelong Learner</h3>
 <div align = "center">
 
