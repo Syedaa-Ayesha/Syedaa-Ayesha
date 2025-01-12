@@ -1,6 +1,9 @@
-# Mern Stack Developer
-## Syeda Ayesha
-# 💫 About Me:
+<img src = "Green and White Minimalist Business Profile with Photo Profile LinkedIn Banner (2).png" alt = "Syeda Ayesha" />
+<h1 align="center">Hi 👋, I'm Syeda Ayesha 💻</h1>
+  <h3 align="center">💻 MERN Stack Developer | 🚀 Front-End Enthusiast | 💡 Lifelong Learner</h3>
+<div align = "center">
+  
+## 💫 About Me:
 🎯 I’m currently working on:<br>          Building modern, user-friendly web interfaces using React and JavaScript.<br>🤝 I’m looking to collaborate on:<br>         Open-source projects and innovative front-end web development ideas.<br>💛 I’m looking for help with:<br>         Exploring advanced animations with CSS and JavaScript for interactive user experiences.<br>🌱 I’m currently learning:<br>         TypeScript and best practices for scalable front-end architecture.<br>💬 Ask me about:<br>         Front-end development, React, and improving web performance.<br>⚡ Fun fact:<br>         I can debug code faster than I can decide what to eat for lunch!
 
 
@@ -25,5 +28,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Syedaa-Ayesha&icon=5&color=1)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
