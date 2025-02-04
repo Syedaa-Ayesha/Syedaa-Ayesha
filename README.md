@@ -1,5 +1,5 @@
 
-<img src = "Green and White Minimalist Business Profile with Photo Profile LinkedIn Banner (2).png" alt = "Syeda Ayesha" />
+<img src = "Green and White Minimalist Business Profile with Photo Profile LinkedIn Banner (2).png" alt = "Syeda Ayesha background image" />
 <h1 align="center">👋 ~ Syeda Ayesha  ~</h1>
   <h3 align="center">💻 MERN Stack Developer | 🚀 Front-End Enthusiast | 💡 Lifelong Learner</h3>
 <div align = "center">
